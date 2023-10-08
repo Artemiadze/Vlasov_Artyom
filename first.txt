@@ -1,2 +1,3 @@
-"first file in lab" 
+
 "chanched in 4"
+"new string in 6"
